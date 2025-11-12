@@ -15,8 +15,7 @@
   Bachelor of Science in Information Technology — GPA: **3.5 / 4.0**
 - Previously studied **Business Administration** at **University of Industry and Trade (2010–2014)** — GPA: **2.54 / 4.0**
 - 🌱 I’m learning **NestJS**, **Next.js**, and exploring **data analytics**
-- 📫 **Email:** [tiennam27@gmail.com](mailto:tiennam27@gmail.com)  
-  🔗 [LinkedIn](https://linkedin.com/in/tiennam27) • [GitHub](https://github.com/ALong202) • ☎️ 0901 28 95 96
+
 
 ---
 
