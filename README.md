@@ -1,7 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ALong202/ALong202/refs/heads/main/44066151-33b7-4049-a10d-44697b8ad137.png" alt="Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/ALong202/ALong202/refs/heads/main/neonBanner.png" alt="Header" width="100%" />
 </p> 
+
+
 
 <h1 align="center">Hi there 👋, I'm Nam</h1>
 <h3 align="center">I'm a recent IT graduate interested in web development and data-driven applications.</h3>
